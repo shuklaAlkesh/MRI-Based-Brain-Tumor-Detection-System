@@ -11,7 +11,7 @@ This project leverages **Deep Learning** and **Image Processing** techniques to 
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Setup](#setup)
-- [License](#license)
+
 
 ## 💡 Introduction
 Brain tumors are a critical health concern that affects thousands of lives globally. Identifying whether a brain tumor is **benign** or **malignant** is crucial for determining treatment options. This project provides an automated solution for detecting and classifying brain tumors using **MRI image analysis**.
